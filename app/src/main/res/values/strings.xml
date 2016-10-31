@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WorkTime</string>
+
+    <string name="content_authority">cz.droidboy.worktime.app</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="save">Save</string>
+    <string name="settings_ssid">SSID prefix</string>
+    <string name="settings_bssid">MAC address prefix</string>
+    <string name="settings_channels">Channels</string>
+    <string name="error_ssid">Invalid SSID format</string>
+    <string name="error_bssid">Invalid MAC address format</string>
+    <string name="error_channels">Invalid specification of channels</string>
+    <string name="error_nothing_specified">At least 1 filtering rule must be specified</string>
+    <string name="more">More</string>
+    <string name="less">Less</string>
+</resources>
